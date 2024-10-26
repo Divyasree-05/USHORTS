@@ -1,2 +1,3 @@
-#USHORT 
-AN URL SHORTENER TOOL
+#USHORTS
+
+An URL shortening tool.
